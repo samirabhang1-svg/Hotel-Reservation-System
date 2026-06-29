@@ -39,7 +39,6 @@ This project helped me strengthen my understanding of:
 * **Database:** MySQL
 * **Connectivity:** JDBC
 * **IDE:** IntelliJ IDEA
-* **Build Tool:** JDK
 ---
 
 ## 🗄️ Database Schema
