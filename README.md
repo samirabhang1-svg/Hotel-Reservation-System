@@ -143,10 +143,3 @@ Through this project, I learned:
 * Using try-with-resources for resource management
 
 ---
-
-## 👨‍💻 Author
-
-**Samir Abhang**
-
-If you found this project helpful, feel free to ⭐ the repository and connect with me on GitHub.
-
